@@ -29,9 +29,12 @@ This repository contains the source codes of the sonar image quality assessment 
 ---
 
 ## Usage
+```bash
 
-To extract features from the sonar images using the proposed methodology you can execute the feature_extractor.p script.
+1. Use the `feature_extractor.p` script to extract features from the sonar images following the proposed methodology. A demonstration is provided in the `demo.m` script.  
+2. To evaluate the method's effectiveness, first extract features from all images, then train and test an SVR model using the recommended parameters outlined in the paper.
 
+```
 
 ## Citation
 ```bash
