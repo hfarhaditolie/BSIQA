@@ -1,8 +1,7 @@
 <div align="center">
 
 # Blind sonar image quality assessment via machine learning: Leveraging micro- and macro-scale texture and contour features in the wavelet domain
-[**Hamidreza Farhadi Tolie**](https://scholar.google.com/citations?user=nzCbjWIAAAAJ&hl=en&authuser=1)<sup>a, b</sup> · [**Jinchang Ren**](https://scholar.google.co.uk/citations?user=Vsx9P-gAAAAJ&hl=en)<sup>a, b, c</sup>
-· **Rongjun Chen**<sup>c</sup>· **Huimin Zhao**<sup>c</sup>· [**Eyad Elyan**](https://scholar.google.co.uk/citations?user=m3-aOvsAAAAJ&hl=en)<sup>b</sup>
+[**Hamidreza Farhadi Tolie**](https://scholar.google.com/citations?user=nzCbjWIAAAAJ&hl=en&authuser=1)<sup>a, b</sup> · [**Jinchang Ren**](https://scholar.google.co.uk/citations?user=Vsx9P-gAAAAJ&hl=en)<sup>a, b, c</sup> · **Rongjun Chen**<sup>c</sup> · **Huimin Zhao**<sup>c</sup>· [**Eyad Elyan**](https://scholar.google.co.uk/citations?user=m3-aOvsAAAAJ&hl=en)<sup>b</sup>
 
 <sup>a</sup> National Subsea Centre, Robert Gordon University, UK
 
